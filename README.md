@@ -20,6 +20,10 @@ Superstore Sales Data (Kaggle)
 4. Streams & Tasks for incremental processing
 5. Clean analytics-ready table for reporting
 
+## Architecture Diagram
+
+![Pipeline Architecture](architecture-diagram.png)
+
 ## Features
 - Automated ingestion pipeline
 - Incremental data processing
